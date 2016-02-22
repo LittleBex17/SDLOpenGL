@@ -3,4 +3,4 @@
 .qmake*
 build*
 Makefile
-SDL 	//SDLOpenGL
+SDLOpenGL
